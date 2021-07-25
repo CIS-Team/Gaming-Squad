@@ -1,2 +1,3 @@
-# Gaming-Squad
-Gaming Squad Roadmap
+# Gaming Squad Roadmap
+
+Will be added soon.
