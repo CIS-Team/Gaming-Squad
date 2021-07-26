@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/55784906/127044306-aaac9d5e-e618-4a16-b46c-290b2ed330b0.png)
 | Game Development |
+---------------------------------------------------------------------------------------
 “We in CIS hope to lead you through the journey of getting the hang of Game Development”
 ----------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127044901-ea6405b1-fbab-49ed-90db-67f99f9cc5f0.png)![image](https://user-images.githubusercontent.com/55784906/127044984-97e1d8a7-5730-4599-a85b-31ce5cca2a1d.png)
@@ -12,6 +13,7 @@ In order to follow this roadmap and develop your very own games, you’ll need a
 2- A Game Engine.(Unreal Engine 4)
 
 Having these tools installed on your PC, you’re now ready to kickstart your journey.
+----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 Level 1: Understand the technologies and the industry.
 
@@ -34,7 +36,7 @@ Level 1: Understand the technologies and the industry.
       4- Design Talks - GDC.
         https://www.youtube.com/playlist?list=PL2e4mYbwSTbbjN6TTMo6toJfByWpKvEDH
         
-
+--------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127045471-ac50a844-0fdb-4f88-8fd1-51375e31ed41.png)
   C++: 
   
@@ -52,7 +54,7 @@ Level 1: Understand the technologies and the industry.
       4- C++ Tutorials.
         https://www.youtube.com/playlist?list=PLrjEQvEart7dezh2ObeI1S7L2YDZdIT9T
         
-
+------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046015-fbd613b5-15a0-43e8-93a5-cc37ddef27d9.png)
   Unreal Engine 4:
   
@@ -67,7 +69,8 @@ Level 1: Understand the technologies and the industry.
       3- DevSquad.
         https://www.youtube.com/user/VirtusEdu
         
---------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 Level 2: Develop Games.
 
 ![image](https://user-images.githubusercontent.com/55784906/127046699-6a4bc78f-f156-41b0-8be3-2ff920776042.png)
@@ -78,7 +81,7 @@ Level 2: Develop Games.
       ->Unreal C++ Developer: Learn C++ and Make Video Games.(Paid)
           https://www.udemy.com/course/unrealcourse/
           
-
+---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046730-5acbdacd-2c87-4a83-ac26-402a91b14970.png)
   Stage 2:
   
@@ -87,7 +90,7 @@ Level 2: Develop Games.
       ->Unreal Engine 4 Mastery: Create Multiplayer Games with C++.(Paid)
           https://www.udemy.com/course/unrealengine-cpp/
           
-
+---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046789-618289df-c1ce-4186-beee-21ac8ec696ba.png)
   Stage 3:
   
@@ -96,7 +99,8 @@ Level 2: Develop Games.
       ->Unreal Engine C++ The Ultimate Game Developer Course.(Paid)
           https://www.udemy.com/course/unreal-engine-the-ultimate-game-developer-course/
           
---------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 Level 3: Delve into your career.
   
    ![image](https://user-images.githubusercontent.com/55784906/127047221-9e16b9a7-79c3-404c-bad3-ad405a4446dc.png)
