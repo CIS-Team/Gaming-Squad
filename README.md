@@ -24,7 +24,7 @@ Level 1: Understand the technologies and the industry.
 
 Game Design and The History of Games:
 -------------------------------------
--Game Design is the essence of game development, it’s about planning and applying your theoretical knowledge in the games you’re making, making your game more appealing to        the player and more enjoyable.
+"Game Design is the essence of game development, it’s about planning and applying your theoretical knowledge in the games you’re making, making your game more appealing to        the player and more enjoyable."
 
 -In this section you’ll learn more about the history of game development and the different roles in the industry:-
 
@@ -116,13 +116,14 @@ Level 3: Delve into your career.
   
    ![image](https://user-images.githubusercontent.com/55784906/127047221-9e16b9a7-79c3-404c-bad3-ad405a4446dc.png)
       
-  Choose your role: THE BIG LIST OF: VIDEO GAME DEVELOPMENT TEAM ROLES.
-           https://cdn.fs.teachablecdn.com/N4tk2YWxTHaM6neBSVqV
+ 1- Choose your role: THE BIG LIST OF: VIDEO GAME DEVELOPMENT TEAM ROLES.
+   https://cdn.fs.teachablecdn.com/N4tk2YWxTHaM6neBSVqV
 
-
+-------------------------------------------------------------------------------------------------------------------
    ![image](https://user-images.githubusercontent.com/55784906/127047234-0e8bde84-d881-4ab4-90da-684680f8e3ac.png)
       
-  Prepare your portfolio: Get A Job In The Games Industry.
-           https://www.youtube.com/playlist?list=PLKyq5_0KFnItXcVyOkTLkrKL3cY0-c_OX
+ 2- Prepare your portfolio: Get A Job In The Games Industry.
+  
+   https://www.youtube.com/playlist?list=PLKyq5_0KFnItXcVyOkTLkrKL3cY0-c_OX
            
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
