@@ -5,6 +5,7 @@
 “We in CIS hope to lead you through the journey of getting the hang of Game Development”
 ----------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127044901-ea6405b1-fbab-49ed-90db-67f99f9cc5f0.png)![image](https://user-images.githubusercontent.com/55784906/127044984-97e1d8a7-5730-4599-a85b-31ce5cca2a1d.png)
+
 Tools:
 In order to follow this roadmap and develop your very own games, you’ll need a set of tools:-
 An IDE.(Visual Studio)
@@ -12,6 +13,7 @@ A Game Engine.(Unreal Engine 4)
 Having these tools installed on your PC, you’re now ready to kickstart your journey.
 ----------------------------------------------------------------------------------------
 Level 1: Understand the technologies and the industry.
+
 ![image](https://user-images.githubusercontent.com/55784906/127045188-301da263-e71e-418d-992c-64d2413cd4d1.png)
   Game Design and The History of Games:
     -Game Design is the essence of game development, it’s about planning and applying your theoretical knowledge in the games you’re making, making your game more appealing to        the player and more enjoyable.
