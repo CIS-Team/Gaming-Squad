@@ -8,8 +8,9 @@
 
 Tools:
 In order to follow this roadmap and develop your very own games, you’ll need a set of tools:-
-An IDE.(Visual Studio)
-A Game Engine.(Unreal Engine 4)
+
+1- An IDE.(Visual Studio)
+2- A Game Engine.(Unreal Engine 4)
 Having these tools installed on your PC, you’re now ready to kickstart your journey.
 ----------------------------------------------------------------------------------------
 Level 1: Understand the technologies and the industry.
