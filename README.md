@@ -18,7 +18,8 @@ Having these tools installed on your PC, you’re now ready to kickstart your jo
 Level 1: Understand the technologies and the industry.
 
 ![image](https://user-images.githubusercontent.com/55784906/127045188-301da263-e71e-418d-992c-64d2413cd4d1.png)
-  Game Design and The History of Games:
+
+Game Design and The History of Games:
   
 -Game Design is the essence of game development, it’s about planning and applying your theoretical knowledge in the games you’re making, making your game more appealing to        the player and more enjoyable.
 
@@ -38,7 +39,8 @@ Level 1: Understand the technologies and the industry.
 
 --------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127045471-ac50a844-0fdb-4f88-8fd1-51375e31ed41.png)
-  C++: 
+ 
+ C++: 
   
 Programming is among the first aspects that brought Video Games to life, it started with assembly, and now C++ is the dominant language for game programming:-
 
@@ -56,7 +58,8 @@ Programming is among the first aspects that brought Video Games to life, it star
         
 ------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046015-fbd613b5-15a0-43e8-93a5-cc37ddef27d9.png)
-  Unreal Engine 4:
+
+Unreal Engine 4:
   
 Unreal Engine have been a leading software in the game industry for over 20 years, but it was only released for the community in 2015, it’s a powerful engine with a wide         area of capabilities, it could be used to develop both indie and AAA games:-
 
@@ -74,7 +77,8 @@ Unreal Engine have been a leading software in the game industry for over 20 year
 Level 2: Develop Games.
 
 ![image](https://user-images.githubusercontent.com/55784906/127046699-6a4bc78f-f156-41b0-8be3-2ff920776042.png)
-  Stage 1:
+ 
+Stage 1:
 
 Develop 5 offline games that will teach you the basic concepts of game development.
 
@@ -83,7 +87,8 @@ Develop 5 offline games that will teach you the basic concepts of game developme
 
 ---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046730-5acbdacd-2c87-4a83-ac26-402a91b14970.png)
-  Stage 2:
+ 
+ Stage 2:
 
 Develop 2 Multiplayer games that will teach you advanced concepts of  game development.
 
@@ -92,7 +97,8 @@ Develop 2 Multiplayer games that will teach you advanced concepts of  game devel
 
 ---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55784906/127046789-618289df-c1ce-4186-beee-21ac8ec696ba.png)
-  Stage 3:
+ 
+ Stage 3:
   
 Dig deep into some of the core gameplay mechanics necessary to build a complete game.
 
@@ -104,11 +110,13 @@ Dig deep into some of the core gameplay mechanics necessary to build a complete 
 Level 3: Delve into your career.
   
    ![image](https://user-images.githubusercontent.com/55784906/127047221-9e16b9a7-79c3-404c-bad3-ad405a4446dc.png)
-       Choose your role:THE BIG LIST OF: VIDEO GAME DEVELOPMENT TEAM ROLES.
+      
+  Choose your role:THE BIG LIST OF: VIDEO GAME DEVELOPMENT TEAM ROLES.
            https://cdn.fs.teachablecdn.com/N4tk2YWxTHaM6neBSVqV
 
 
    ![image](https://user-images.githubusercontent.com/55784906/127047234-0e8bde84-d881-4ab4-90da-684680f8e3ac.png)
-       Prepare your portfolio:Get A Job In The Games Industry.
+      
+  Prepare your portfolio:Get A Job In The Games Industry.
            https://www.youtube.com/playlist?list=PLKyq5_0KFnItXcVyOkTLkrKL3cY0-c_OX
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
