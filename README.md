@@ -145,7 +145,8 @@ Level 3: Delve into your career.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Contact Us at:
 --------------
-Facebook: Facebook.com/ahmad.dwayke.77
-LinkedIn: LinkedIn.com/in/dwayke
+Facebook: https://m.facebook.com/ahmad.dwayke.77
+
+LinkedIn: https://www.linkedin.com/in/dwayke
 
 --------------------------------------
